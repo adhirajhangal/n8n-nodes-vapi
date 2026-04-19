@@ -1,0 +1,9 @@
+nodes
+credentials
+icons
+*.ts
+tsconfig.json
+eslint.config.mjs
+.eslintignore
+.prettierrc.js
+src

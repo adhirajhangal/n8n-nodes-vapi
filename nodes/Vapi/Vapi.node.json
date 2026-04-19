@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-vapi.vapi",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["AI", "Communication"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/adhirajhangal/n8n-nodes-vapi#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/adhirajhangal/n8n-nodes-vapi"
+			}
+		]
+	}
+}
